@@ -5,7 +5,7 @@ another in complex ways. There is no way to see the whole game in one playthroug
 play again and make different friends and enemies the second time, and the third time, if you want
 to hear everything it has to say.
 
-In theory.
+In theory. The story isn't actually that developed yet, but the structure is in place.
 
 It has some interesting innovations, including a custom class that functions like a Python dictionary but limits the acceptable values, sort of like an enumerated-type-meets-python-dict mashup.
 
